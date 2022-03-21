@@ -4,12 +4,10 @@
 
 ### 安利一个在线学习Java的文档
 
-- 在线阅读地址：https://snailclimb.gitee.io/javaguide-interview/#/
-- Github：https://github.com/Snailclimb/JavaGuide-Interview
-- 码云：https://gitee.com/SnailClimb/JavaGuide-Interview
+- 在线阅读地址：http://docs.9958o.com
+- Github：https://github.com/9958/JavaGuide-Interview
+- 码云：https://gitee.com/9958/JavaGuide-Interview
 
 ### 作者介绍
 
-**作者介绍:**  Github 74k Star 项目  **[JavaGuide](https://github.com/Snailclimb/JavaGuide)**（公众号同名） 作者。每周都会在公众号更新一些自己原创干货。公众号后台回复“1”领取Java工程师必备学习资料+面试突击pdf。
-
-![](https://imgkr.cn-bj.ufileos.com/66f3a716-b3cc-469b-9b61-8be00244305c.png)
+**作者介绍:**  我是机哥，精通PHP、python，懂点前端，一个三观很正的技术人。我的目标是成为一名优秀的架构师。
