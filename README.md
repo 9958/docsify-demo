@@ -5,8 +5,7 @@
 ### 安利一个在线学习Java的文档
 
 - 在线阅读地址：http://docs.9958o.com
-- Github：https://github.com/9958/JavaGuide-Interview
-- 码云：https://gitee.com/9958/JavaGuide-Interview
+- Github：https://github.com/9958/docsify-demo
 
 ### 作者介绍
 
